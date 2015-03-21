@@ -1,2 +1,0 @@
-# Gmap
-Gmap Example
